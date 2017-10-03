@@ -1,0 +1,15 @@
+{
+  "CreationDate": "2017-10-3",
+  "Commands": [
+    {
+      "Command": "open",
+      "Target": "http://www.terragotech.com/",
+      "Value": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=rt-logo",
+      "Value": ""
+    }
+  ]
+}

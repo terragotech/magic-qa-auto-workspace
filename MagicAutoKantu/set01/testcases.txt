@@ -1,0 +1,1 @@
+case001.json - example to simply click on terrago logo
