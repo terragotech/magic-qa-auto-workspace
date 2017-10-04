@@ -1,0 +1,65 @@
+{
+  "CreationDate": "2017-10-4",
+  "Commands": [
+    {
+      "Command": "open",
+      "Target": "http://terragomagic.com:8080/Applications/QXBwOjU5NDk0NGM5NDk0ZDdhN2U3OTk2OGY2Mw==",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "css=input.tgInput.md",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "css=input.tgInput.md",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "css=input.tgInput.md",
+      "Value": "Automation"
+    },
+    {
+      "Command": "click",
+      "Target": "//*[@id=\"root\"]/div/div[3]/div[3]/div/div[2]/div/div[2]/div/div[1]/div/div[1]/div[2]/div[3]/div/div[2]/div/div/input",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "//*[@id=\"root\"]/div/div[3]/div[3]/div/div[2]/div/div[2]/div/div[1]/div/div[1]/div[2]/div[3]/div/div[2]/div/div/input",
+      "Value": "Auto"
+    },
+    {
+      "Command": "click",
+      "Target": "//*[@id=\"root\"]/div/div[3]/div[3]/div/div[2]/div/div[2]/div/div[1]/div/div[2]/div[1]/div[2]/div/input",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "//*[@id=\"root\"]/div/div[3]/div[3]/div/div[2]/div/div[2]/div/div[1]/div/div[2]/div[1]/div[2]/div/input",
+      "Value": "www.auto.com"
+    },
+    {
+      "Command": "click",
+      "Target": "//*[@id=\"root\"]/div/div[3]/div[3]/div/div[2]/div/div[2]/div/div[1]/div/div[3]/div/div[2]/div/input",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "//*[@id=\"root\"]/div/div[3]/div[3]/div/div[2]/div/div[2]/div/div[1]/div/div[3]/div/div[2]/div/input",
+      "Value": "jfields@auto.com"
+    },
+    {
+      "Command": "click",
+      "Target": "css=img.down",
+      "Value": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "//*[@id=\"root\"]/div/div[2]/div[2]/div[2]/div/div[3]/div/div[2]",
+      "Value": ""
+    }
+  ]
+}

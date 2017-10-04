@@ -1,0 +1,160 @@
+{
+  "CreationDate": "2017-10-4",
+  "Commands": [
+    {
+      "Command": "open",
+      "Target": "http://terragomagic.com:8080/Applications/QXBwOjU5NDk0NGM5NDk0ZDdhN2U3OTk2OGY2Mw==",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "name=username",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "name=username",
+      "Value": "jfields"
+    },
+    {
+      "Command": "click",
+      "Target": "name=password",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "name=password",
+      "Value": "1990"
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "css=span.buttonFlex",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "//*[@id=\"root\"]/div/div[3]/div[3]/div/div[2]/div/div[1]/div/div[3]",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "//*[@id=\"root\"]/div/div[3]/div[3]/div/div[2]/div/div[2]/div/div/div/div[1]/div/div[1]/div/div[5]/label/span",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "css=div.switch",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "//*[@id=\"root\"]/div/div[3]/div[3]/div/div[2]/div/div[2]/div/div/div/div[1]/div/div[2]/div/div[2]/div[1]/div/div[2]/div",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "css=div.checkboxEmpty",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "css=div.checkboxEmpty",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "css=div.checkboxEmpty",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "css=div.checkboxEmpty",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "css=div.checkboxEmpty",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "css=div.checkboxEmpty",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "//*[@id=\"root\"]/div/div[3]/div[3]/div/div[2]/div/div[2]/div/div/div/div[1]/div/div[2]/div/div[3]/div[1]/div/div[2]/div",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "//*[@id=\"root\"]/div/div[3]/div[3]/div/div[2]/div/div[2]/div/div/div/div[1]/div/div[2]/div/div[4]/div[1]/div/div[2]/div",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "//*[@id=\"root\"]/div/div[3]/div[3]/div/div[2]/div/div[2]/div/div/div/div[1]/div/div[2]/div/div[5]/div[1]/div/div[2]/div",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "//*[@id=\"root\"]/div/div[3]/div[3]/div/div[2]/div/div[2]/div/div/div/div[1]/div/div[2]/div/div[5]/div[1]/div/div[2]/div",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "//*[@id=\"root\"]/div/div[3]/div[3]/div/div[2]/div/div[2]/div/div/div/div[1]/div/div[2]/div/div[4]/div[1]/div/div[2]/div",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "//*[@id=\"root\"]/div/div[3]/div[3]/div/div[2]/div/div[2]/div/div/div/div[1]/div/div[2]/div/div[3]/div[1]/div/div[2]/div",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "//*[@id=\"root\"]/div/div[3]/div[3]/div/div[2]/div/div[2]/div/div/div/div[1]/div/div[2]/div/div[2]/div[4]/div/div/div/div[6]/div/img",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "//*[@id=\"root\"]/div/div[3]/div[3]/div/div[2]/div/div[2]/div/div/div/div[1]/div/div[2]/div/div[2]/div[4]/div/div/div/div[5]/div/img",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "//*[@id=\"root\"]/div/div[3]/div[3]/div/div[2]/div/div[2]/div/div/div/div[1]/div/div[2]/div/div[2]/div[4]/div/div/div/div[4]/div/img",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "//*[@id=\"root\"]/div/div[3]/div[3]/div/div[2]/div/div[2]/div/div/div/div[1]/div/div[2]/div/div[2]/div[4]/div/div/div/div[3]/div",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "//*[@id=\"root\"]/div/div[3]/div[3]/div/div[2]/div/div[2]/div/div/div/div[1]/div/div[2]/div/div[2]/div[4]/div/div/div/div[2]/div/img",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "//*[@id=\"root\"]/div/div[3]/div[3]/div/div[2]/div/div[2]/div/div/div/div[1]/div/div[2]/div/div[2]/div[4]/div/div/div/div[1]/div/img",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "//*[@id=\"root\"]/div/div[3]/div[3]/div/div[2]/div/div[2]/div/div/div/div[1]/div/div[2]/div/div[2]/div[1]/div/div[2]/div",
+      "Value": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "//*[@id=\"root\"]/div/div[2]/div[2]/div[2]/div/div[3]/div/div[2]",
+      "Value": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "//*[@id=\"root\"]/div/div[2]/div[2]/div[2]/div/div[3]/div/div[2]",
+      "Value": ""
+    }
+  ]
+}

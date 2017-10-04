@@ -1,0 +1,40 @@
+{
+  "CreationDate": "2017-10-4",
+  "Commands": [
+    {
+      "Command": "open",
+      "Target": "http://terragomagic.com:8080/login",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "name=username",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "name=username",
+      "Value": "jfields"
+    },
+    {
+      "Command": "type",
+      "Target": "name=password",
+      "Value": "1990"
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "css=span.buttonFlex",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "css=img.down",
+      "Value": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "//*[@id=\"root\"]/div/div[2]/div[2]/div[2]/div/div[3]/div/div[2]",
+      "Value": ""
+    }
+  ]
+}
